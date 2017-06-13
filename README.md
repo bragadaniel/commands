@@ -3,7 +3,8 @@
 ## First Install Docker on Machine
 
 * [Docker](https://docs.docker.com/engine/installation/)
-## Look and Create this files
+
+## Create this files into project root
 
 [docker-compose.yml](https://github.com/bragadaniel/commands/blob/master/docker-compose.yml)
 
