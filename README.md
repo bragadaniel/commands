@@ -5,9 +5,9 @@
 * [Docker](https://docs.docker.com/engine/installation/)
 ## Look and Create this files
 
-[docker-compose.yml](commands/docker-compose.yml)
+[docker-compose.yml](https://github.com/bragadaniel/commands/blob/master/docker-compose.yml)
 
-[Dockerfile](commands/Dockerfile)
+[Dockerfile](https://github.com/bragadaniel/commands/blob/master/Dockerfile)
 
 ### Create project
 ```sh
